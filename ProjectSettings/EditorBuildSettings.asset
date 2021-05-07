@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PersistantObjects.unity
+    guid: d2310b76cfb98ed448471012efb5c377
+  - enabled: 1
+    path: Assets/Scenes/Hallway.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ArtPuzzle.unity
+    guid: f2ca835714d13d14ab34ef73c739f866
+  - enabled: 1
+    path: Assets/Scenes/Exit Room.unity
+    guid: c67fdb93bd2a840f185ac8e7ecc5346d
+  - enabled: 1
+    path: Assets/Scenes/Intro Room.unity
+    guid: a7ffcacf9b8af43229a59834c6835d39
+  - enabled: 1
+    path: Assets/Scenes/Puzzle.unity
+    guid: 18b08a1c80c4e6f41bf1272eb5c1338d
+  - enabled: 1
+    path: Assets/Scenes/Example.unity
+    guid: 810bd709cb3740f1b178a3210c8bb8ed
+  - enabled: 1
+    path: Assets/Scenes/GoldingMaze.unity
+    guid: c59978b9dc9dd43fc8a9f82ca72edb5a
+  - enabled: 1
+    path: Assets/Scenes/tutorial.unity
+    guid: 76d94e2d141ee4295aae7d917ad0e806
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0eaa704ca5041204a841d0626fae51cd,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a787c56718a6543df8305b96758c84e3,
+      type: 2}
